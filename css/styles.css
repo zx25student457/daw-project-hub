@@ -1,0 +1,10 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 20px;
+}
+
+p {
+  border-left: 4px solid #007acc;
+  padding-left: 10px;
+}
